@@ -9,6 +9,6 @@ const ele = (
   </div>
 )
 
-console.log(ele);
+//console.log(ele);
 
 ReactDOM.render(<App />, document.getElementById("root"));
